@@ -36,4 +36,9 @@ sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infobar:
+      title: This is a Dashboard
+      description: <iframe width="600" height="800"
+        src="https://datastudio.google.com/embed/reporting/8170ddff-0526-4bfa-9d7b-9e711acb73d1/page/1M"
+        frameborder="0" style="border:0" allowfullscreen></iframe>
 ---
