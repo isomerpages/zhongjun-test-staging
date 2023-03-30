@@ -2,11 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
+  - title: Example Pages
     url: /example-page/
   - title: Example Folder
     collection: example-folder
   - title: Resources
     resource_room: true
-  - title: <script>alert("Hi!!")</script>
+  - title: null
     url: /permalink
