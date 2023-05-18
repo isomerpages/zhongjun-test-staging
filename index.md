@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use
 sections:
   - hero:
-      title: Hello World2
+      title: Hello World
       subtitle: whats up
       background: /images/hero-banner.png
       button: Contact Us
@@ -26,7 +26,7 @@ sections:
       title: This is a Dashboard
       description: <iframe width="600" height="800"
         src="https://lookerstudio.google.com/embed/reporting/70007745-bef5-4cb1-ad72-41ccb1170cf1/page/1M"
-        frameborder="0" style="border:0" allowfullscreen></iframe>
+        frameborder="0" style="border:0" allowfullscreen=""></iframe>
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -34,7 +34,7 @@ sections:
         src="https://www.youtube.com/embed/ruSUQy8Agl0" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen=""></iframe>
       button: Button text
       url: /faq/
   - resources:
