@@ -2,7 +2,7 @@
 title: Example Page
 permalink: /example-page/
 ---
-An examples.
+An example.
 
 Aaaaaa
 
