@@ -1,5 +1,0 @@
-collections:
-  hi-there:
-    output: true
-    order:
-      - test new fle.md
