@@ -4,5 +4,4 @@ collections:
     order:
       - Hello/.keep
       - Terms of Use:.md
-      - privacy.md
       - example-page.md
