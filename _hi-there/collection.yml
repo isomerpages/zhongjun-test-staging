@@ -1,4 +1,5 @@
 collections:
   hi-there:
     output: true
-    order: []
+    order:
+      - test new fle.md
