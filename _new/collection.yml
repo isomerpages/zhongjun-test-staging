@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Hello/.keep
-      - Hello/privacy.md
       - Hello/example-page.md
+      - Hello/privacy.md
       - Terms of Use:.md
