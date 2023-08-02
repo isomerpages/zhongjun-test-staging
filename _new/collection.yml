@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - example-page.md
-      - Terms of Use:.md
       - privacy.md
+      - Terms of Use:.md
