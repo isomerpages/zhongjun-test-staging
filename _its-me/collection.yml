@@ -2,4 +2,5 @@ collections:
   its-me:
     output: true
     order:
+      - faq.md
       - example-page.md
