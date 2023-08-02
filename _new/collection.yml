@@ -2,6 +2,7 @@ collections:
   new:
     output: true
     order:
+      - Hello/.keep
       - Terms of Use:.md
       - privacy.md
       - example-page.md
