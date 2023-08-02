@@ -2,6 +2,6 @@ collections:
   new:
     output: true
     order:
-      - example-page.md
       - privacy.md
+      - example-page.md
       - Terms of Use:.md
