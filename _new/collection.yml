@@ -2,5 +2,6 @@ collections:
   new:
     output: true
     order:
+      - Terms of Use:.md
       - example-page.md
       - faq.md
