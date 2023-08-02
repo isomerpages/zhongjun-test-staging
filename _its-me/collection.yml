@@ -1,4 +1,5 @@
 collections:
   its-me:
     output: true
-    order: []
+    order:
+      - example-page.md
