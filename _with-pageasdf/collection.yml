@@ -1,5 +1,5 @@
 collections:
-  with-page:
+  with-pageasdf:
     output: true
     order:
       - Yet another test page.md
