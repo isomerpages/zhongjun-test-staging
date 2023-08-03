@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Titleasdf
+title: Amplify Titles
 description: An Isomer site of the Singapore Governmentxcfbxcvb
 image: /images/isomer-logo.svg
 permalink: /
