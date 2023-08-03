@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Titles
+title: Title
 description: An Isomer site of the Singapore Governmentxcfbxcvb
 image: /images/isomer-logo.svg
 permalink: /
