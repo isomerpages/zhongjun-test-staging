@@ -1,0 +1,4 @@
+collections:
+  another-folder:
+    output: true
+    order: []
