@@ -1,4 +1,5 @@
 collections:
   with-page:
     output: true
-    order: []
+    order:
+      - Yet another test page.md
