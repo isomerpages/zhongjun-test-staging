@@ -1,4 +1,5 @@
 collections:
   another-folder:
     output: true
-    order: []
+    order:
+      - Nested Page.md
