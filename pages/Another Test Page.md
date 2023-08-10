@@ -4,3 +4,5 @@ permalink: /another-test-page/
 description: ""
 ---
 This page has test contents.
+
+Another test.
