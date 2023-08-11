@@ -28,7 +28,7 @@ sections:
         frameborder="0" style="border:0" allowfullscreen=""></iframe>
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: Hola!!!
       button: Button text
       url: /faq/
   - resources:
