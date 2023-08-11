@@ -7,3 +7,5 @@ permalink: /example-folder/folder-page/
 ### Singapura
 
 ## Hola World
+
+## Hello from here
