@@ -6,4 +6,4 @@ permalink: /example-folder/folder-page/
 ## Happy Friday
 ### Singapura
 
-## Hola Harish's Change!
+## Hola World
