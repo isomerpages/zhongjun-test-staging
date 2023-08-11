@@ -33,6 +33,6 @@ sections:
       url: /faq/
   - resources:
       title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      subtitle: Resources Staging Subtitle
       button: Resources Button Name
 ---
