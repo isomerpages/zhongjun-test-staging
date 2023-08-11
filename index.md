@@ -26,6 +26,7 @@ sections:
       description: <iframe width="600" height="800"
         src="https://lookerstudio.google.com/embed/reporting/70007745-bef5-4cb1-ad72-41ccb1170cf1/page/1M"
         frameborder="0" style="border:0" allowfullscreen=""></iframe>
+      subtitle: "test title "
   - infobar:
       title: Infobar title
       subtitle: Hola!!!
