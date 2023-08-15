@@ -1,0 +1,4 @@
+collections:
+  alex-test:
+    output: true
+    order: []
