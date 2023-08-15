@@ -4,3 +4,5 @@ permalink: /renamed-page/
 description: ""
 ---
 # Hello World!
+
+Teste test
