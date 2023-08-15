@@ -1,4 +1,5 @@
 collections:
   todelete:
     output: true
-    order: []
+    order:
+      - Example Title To Delete.md
