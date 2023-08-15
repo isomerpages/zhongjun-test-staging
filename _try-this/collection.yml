@@ -1,4 +1,5 @@
 collections:
   try-this:
     output: true
-    order: []
+    order:
+      - Example Title 22.md
