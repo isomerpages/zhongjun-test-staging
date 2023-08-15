@@ -1,4 +1,5 @@
 collections:
   try-test-2:
     output: true
-    order: []
+    order:
+      - Test test.md
