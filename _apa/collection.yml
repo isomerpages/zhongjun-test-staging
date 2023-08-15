@@ -1,4 +1,5 @@
 collections:
   apa:
     output: true
-    order: []
+    order:
+      - Renamed page.md
