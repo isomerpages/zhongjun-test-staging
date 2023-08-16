@@ -2,6 +2,6 @@ collections:
   apa-ini:
     output: true
     order:
-      - tEsT eXaMpLe.md
+      - tEsT eXaMple.md
       - Test Example.md
       - Renamed page.md
