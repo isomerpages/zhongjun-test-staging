@@ -36,4 +36,9 @@ sections:
       title: Resources Section Title
       subtitle: Resources Staging Subtitle
       button: Resources Button Name
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
