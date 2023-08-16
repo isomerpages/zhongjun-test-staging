@@ -1,5 +1,5 @@
 collections:
-  apa:
+  apa-ini:
     output: true
     order:
       - Renamed page.md
