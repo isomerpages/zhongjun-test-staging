@@ -4,5 +4,3 @@ permalink: /test-example/
 description: ""
 ---
 An example.
-
-# update
