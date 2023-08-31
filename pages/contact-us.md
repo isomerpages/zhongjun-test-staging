@@ -5,6 +5,19 @@ permalink: /contact-us/
 agency_name: Better Agency Again
 locations:
   - address:
+      - 109 North Bridge Road
+      - Singapore 179097
+      - ""
+    operating_hours:
+      - days: Mon-Sun
+        time: Mon-Sun
+        description: Mon-Sun
+      - days: Mon-Sun
+        time: Mon-SunMon-Sun
+        description: Mon-SunMon-Sun
+    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    title: Branch Office
+  - address:
       - 31 Sesame Street
       - Big Bird Building
       - Singapore 123456
@@ -17,13 +30,6 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6123 4567
