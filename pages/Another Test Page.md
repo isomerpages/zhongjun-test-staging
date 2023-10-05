@@ -19,6 +19,3 @@ This page has test contents.
 ###### Header
 
 - hello
-
-
-![Test](/images/rubber-g7de116bc3_1280.png)
