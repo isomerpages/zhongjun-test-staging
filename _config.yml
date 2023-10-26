@@ -1,5 +1,5 @@
 title: Amplify Titles
-url: https://staging.d3gik1yxehn8wy.amplifyapp.com
+url: https://www.proxy.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#8b572a"
@@ -54,7 +54,7 @@ prod: https://master.d3gik1yxehn8wy.amplifyapp.com
 resources_name: press-releases
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
