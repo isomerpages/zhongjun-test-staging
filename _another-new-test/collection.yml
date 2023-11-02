@@ -2,5 +2,4 @@ collections:
   another-new-test:
     output: true
     order:
-      - லோரம் இப்சம்.md
       - Example Title.md
