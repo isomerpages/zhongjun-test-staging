@@ -2,4 +2,5 @@ collections:
   another-new-test:
     output: true
     order:
+      - 把我如到價小岸發.md
       - Example Title.md
