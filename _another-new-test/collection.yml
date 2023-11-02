@@ -2,5 +2,5 @@ collections:
   another-new-test:
     output: true
     order:
-      - Subfolder/.keep
+      - Subfolder renamed/.keep
       - Test Page.md
