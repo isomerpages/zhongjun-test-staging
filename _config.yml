@@ -2,8 +2,8 @@ title: Amplify Titles
 url: https://www.proxy.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#8b572a"
-  secondary-color: "#50e3c2"
+  primary-color: "#f5a623"
+  secondary-color: "#417505"
   media-colors:
     - title: media-color-one
       color: "#49759a"
