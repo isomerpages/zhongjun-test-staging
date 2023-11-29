@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Amplify Titles
-description: An Isomer site of the Singapore Governmentxcfbxcvb
+description: wow deez nats
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use
