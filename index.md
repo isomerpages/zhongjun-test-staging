@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use
 sections:
   - hero:
       title: Hello World Staging 6!
-      background: /images/hero-banner.png
+      background: /images/hero-banner-two.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
