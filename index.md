@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Amplify Titles
-description: wow deez nats
+description: A gahmen site
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use
