@@ -2,7 +2,7 @@ title: Amplify Titles
 url: https://www.proxy.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f5a623"
+  primary-color: "#f52326"
   secondary-color: "#417505"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: wow deez nats
+description: A gahmen site
 permalink: none
 baseurl: ""
 exclude:
