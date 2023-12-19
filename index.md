@@ -46,7 +46,7 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
+        - title: New Announcementdqwdw
           date: 04 January 2024
           announcement: Announcement content
           link_text: ""
