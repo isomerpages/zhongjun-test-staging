@@ -2,8 +2,9 @@
 title: Another Test Page
 permalink: /another-test-page/
 description: ""
+variant: markdown
 ---
-This page has test contents.
+This page has test content.
 
 **Another test.**
 
