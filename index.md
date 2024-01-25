@@ -45,10 +45,12 @@ sections:
       title: Announcements
       id: announcements
       subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcementdqwdw
-          date: 04 January 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
 ---
