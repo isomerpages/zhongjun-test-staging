@@ -1,0 +1,8 @@
+collections:
+  apa-ini-baharu:
+    output: true
+    order:
+      - Selamat Pagi.md
+      - tEsT eXaMple.md
+      - Test Example.md
+      - Renamed page.md

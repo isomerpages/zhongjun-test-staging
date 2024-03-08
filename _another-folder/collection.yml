@@ -1,0 +1,5 @@
+collections:
+  another-folder:
+    output: true
+    order:
+      - Nested Page.md

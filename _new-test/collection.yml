@@ -1,0 +1,6 @@
+collections:
+  new-test:
+    output: true
+    order:
+      - Test & test/old editor.md
+      - Test & test/.keep

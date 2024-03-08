@@ -1,0 +1,9 @@
+collections:
+  new:
+    output: true
+    order:
+      - Cards block.md
+      - Hello/.keep
+      - Hello/privacy.md
+      - Hello/example-page.md
+      - Terms of Use:.md
