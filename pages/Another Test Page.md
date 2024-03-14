@@ -4,4 +4,4 @@ permalink: /another-test-page/
 description: ""
 variant: markdown
 ---
-This page is a test. 
+This page is a testing
