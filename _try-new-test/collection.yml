@@ -1,0 +1,6 @@
+collections:
+  try-new-test:
+    output: true
+    order:
+      - Test test.md
+      - Example Title !!.md
