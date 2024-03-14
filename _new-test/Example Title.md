@@ -1,6 +1,7 @@
 ---
 title: Example Title
 permalink: /new-test/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+Edit a page.
