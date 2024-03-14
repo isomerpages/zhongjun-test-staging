@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Test & test/old editor.md
       - Test & test/.keep
