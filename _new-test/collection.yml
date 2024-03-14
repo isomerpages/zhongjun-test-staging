@@ -2,5 +2,6 @@ collections:
   new-test:
     output: true
     order:
+      - Example Title.md
       - Test & test/old editor.md
       - Test & test/.keep
