@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3gik1yxehn8wy.amplifyapp.com
 prod: https://master.d3gik1yxehn8wy.amplifyapp.com
-resources_name: press-releases
+resources_name: press-releases-wd
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 is_government: true
