@@ -2,7 +2,6 @@ collections:
   apa-ini-baharu:
     output: true
     order:
-      - AAA!@&()',:/Example Title.md
       - AAA!@&()',:/.keep
       - Example Title.md
       - Selamat Pagi.md
