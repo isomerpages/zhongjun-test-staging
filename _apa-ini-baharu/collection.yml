@@ -2,6 +2,7 @@ collections:
   apa-ini-baharu:
     output: true
     order:
+      - A###/.keep
       - Example Title.md
       - Selamat Pagi.md
       - tEsT eXaMple.md
