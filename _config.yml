@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d3gik1yxehn8wy.amplifyapp.com
-prod: https://master.d3gik1yxehn8wy.amplifyapp.com
+staging: https://staging.d2jyc2gar8zmvz.amplifyapp.com
+prod: https://master.d2jyc2gar8zmvz.amplifyapp.com
 resources_name: press-releases-wd
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
