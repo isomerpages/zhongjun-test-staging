@@ -1,0 +1,6 @@
+collections:
+  new-test:
+    output: true
+    order:
+      - Example Title.md
+      - Test & test/.keep

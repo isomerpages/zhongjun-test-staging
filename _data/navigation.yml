@@ -1,0 +1,10 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Example Pages
+    url: /example-page/
+  - title: Example Folder
+    collection: example-folder
+  - title: Resources
+    resource_room: true
+  - title: Test Contact Us
+    url: /contact-us/

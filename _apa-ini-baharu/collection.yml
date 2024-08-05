@@ -1,0 +1,10 @@
+collections:
+  apa-ini-baharu:
+    output: true
+    order:
+      - AAA!@&()',:/.keep
+      - Example Title.md
+      - Selamat Pagi.md
+      - tEsT eXaMple.md
+      - Test Example.md
+      - Renamed page.md
