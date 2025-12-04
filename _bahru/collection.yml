@@ -1,4 +1,5 @@
 collections:
   bahru:
     output: true
-    order: []
+    order:
+      - New bahru/.keep
