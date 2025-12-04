@@ -4,4 +4,4 @@ permalink: /another-test-page/
 description: ""
 variant: markdown
 ---
-This page is a test. 1234556
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7boOYcG8YbQ?si=dtHy5xsAUuWQtyb8" height="315" width="560"></iframe>
