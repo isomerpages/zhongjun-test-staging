@@ -1,0 +1,4 @@
+collections:
+  bahru:
+    output: true
+    order: []
