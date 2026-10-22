@@ -2,9 +2,8 @@
 title: Nested Page
 permalink: /another-folder/nested-page/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-This is a test nested page.
-
-Test edit. Trial. More test now!! Test.
-Test ah test
+<p>This is a test nested page.</p>
+<p>Test edit. Trial. More test now!! Test. Test ah test</p>
+<p>Siao ah test</p>
