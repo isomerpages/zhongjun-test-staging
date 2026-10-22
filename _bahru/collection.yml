@@ -1,0 +1,6 @@
+collections:
+  bahru:
+    output: true
+    order:
+      - New bahru/Example Title.md
+      - New bahru/.keep
